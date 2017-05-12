@@ -1,11 +1,10 @@
 body{
-	padding:0;
-	margin:0;
 	font-size: 1em;
 	background-color: #bbb;
+	
 }
 .wrapper{
-	 margin-top: 90px;
+	 margin-top: 95px;
 }
 .row1{
 	width:90%;
