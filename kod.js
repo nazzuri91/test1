@@ -9,6 +9,7 @@ btn.addEventListener("click", function(){
 	modle.classList.add("displayBlock");
 	modle.classList.add("clearOpacity");
 }, false);
+
 backBtn.addEventListener("click", function(){
 	body.classList.remove("setOpacity");
 	wrapper.classList.remove("displayNone");
